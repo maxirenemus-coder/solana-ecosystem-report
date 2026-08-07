@@ -6,6 +6,8 @@ anomaly detection and an interactive dark-theme dashboard.
 
 **Zero dependencies. No API keys. `git clone` and run.**
 
+**Live demo:** https://maxirenemus-coder.github.io/solana-ecosystem-report/
+
 Built for the *"Develop Solana Ecosystem Auto-Updating Report & Interactive
 Dashboard"* bounty (Superteam Canada).
 
